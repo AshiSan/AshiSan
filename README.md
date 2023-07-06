@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AshiSan
-- 👀 I’m interested in going to work in the IT field 
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on different projects to gain practical experience
 - 📫 How to reach me ...
