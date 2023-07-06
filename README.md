@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AshiSan
+- 👋 Hi, I’m Eric
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on different projects to gain practical experience
