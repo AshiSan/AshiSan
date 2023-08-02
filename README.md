@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eric
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Machine Learning in Python
 - 💞️ I’m looking to collaborate on different projects to gain practical experience
 
 
